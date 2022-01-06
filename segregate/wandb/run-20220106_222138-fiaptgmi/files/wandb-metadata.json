@@ -1,0 +1,35 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-01-06T19:21:40.030087",
+    "startedAt": "2022-01-06T19:21:38.778385",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "splitted_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/segregate/run.py",
+    "git": {
+        "remote": "https://github.com/frkangul/nd0821-c2-build-model-workflow-exercises.git",
+        "commit": "d453cd9d9a1860c67866ed6a894ed27748f80e76"
+    },
+    "email": null,
+    "root": "/Users/furkan.gul/Documents/Udacity/second_module/nd0821-c2-build-model-workflow-exercises",
+    "host": "supports-MacBook-Pro-5.local",
+    "username": "furkan.gul",
+    "executable": "/Users/furkan.gul/opt/anaconda3/envs/mlflow-d78ba10d97b2fefb916424aa4760cdc9cc1bf598/bin/python"
+}

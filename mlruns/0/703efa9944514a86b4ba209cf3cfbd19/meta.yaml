@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/furkan.gul/Documents/Udacity/second_module/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/703efa9944514a86b4ba209cf3cfbd19/artifacts
+end_time: 1641495316268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 703efa9944514a86b4ba209cf3cfbd19
+run_uuid: 703efa9944514a86b4ba209cf3cfbd19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641495313535
+status: 4
+tags: []
+user_id: furkan.gul
